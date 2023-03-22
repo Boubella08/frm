@@ -1,0 +1,85 @@
+Matricule : 2
+Nom : BOUBELLA
+Prénom : MEHDI
+Adresse : OULFA
+Ville : CASABLANCA
+N°CIN : BK717 396
+N°CNSS : 7665623626
+N°Mutuel : 202
+N°CIMR : 4444444
+Compte bancaire : 0000000000000
+Agence bancaire : BMCE BANK
+Date d'entrée : 2020-01-01
+Salaire : 10000
+Mode de paiement : Cheque
+
+
+
+Matricule : 3
+Nom : BOUBELLA
+Prénom : MEHDI
+Adresse : OULFA
+Ville : CASABLANCA
+N°CIN : BK717 396
+N°CNSS : 7665623626
+N°Mutuel : 202
+N°CIMR : 4444444
+Compte bancaire : 0000000000000
+Agence bancaire : BMCE BANK
+Date d'entrée : 2020-01-01
+Salaire : 10000
+Mode de paiement : Cheque
+
+
+
+Matricule : 3
+Nom : BOUBELLA
+Prénom : MEHDI
+Adresse : OULFA
+Ville : CASABLANCA
+N°CIN : BK717 396
+N°CNSS : 7665623626
+N°Mutuel : 202
+N°CIMR : 4444444
+Compte bancaire : 0000000000000
+Agence bancaire : BMCE BANK
+Date d'entrée : 2020-01-01
+Salaire : 10000
+Mode de paiement : Cheque
+
+
+
+Matricule : 10
+Nom : BATTACH
+Prénom : IMAD
+Adresse : MAARIF
+Ville : CASABLANCA
+N°CIN : BK717 396
+N°CNSS : 7665623626
+N°Mutuel : 202
+N°CIMR : 4444444
+Compte bancaire : 0000000000000
+Agence bancaire : BMCE BANK
+Date d'entrée : 2020-01-01
+Salaire : 10000
+Mode de paiement : Virement
+
+
+
+Matricule : 100
+Nom : Boubella
+Prénom : Mehdi
+Adresse : RUE35.N68.OULFA
+Ville : Casablanca
+N°CIN : BK717 396
+N°CNSS : 7665623626
+N°Mutuel : 202
+N°CIMR : 4444444
+Compte bancaire : 0000000000000
+Agence bancaire : BMCE BANK
+Date d'entrée : 2020-01-01
+Salaire : 10000
+Mode de paiement : Espece
+
+
+
